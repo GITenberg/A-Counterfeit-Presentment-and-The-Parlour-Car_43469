@@ -1,0 +1,42 @@
+_repo: A-Counterfeit-Presentment-and-The-Parlour-Car_43469
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43469-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "A Counterfeit Presentment is a play written by American author and playwright\
+  \ William Dean Howells in 1877. The play is a realistic comedy and tells the story\
+  \ of a chance encounter between a young woman, Constance, and a man whom she mistakes\
+  \ for her ex lover, Bartlett. However, Bartlett is not completely aware of Constance's\
+  \ neurotic behavior until he gets to know her a bit more. Her true personality is\
+  \ only truly expressed after she forces Bartlett to stay with her in the hotel so\
+  \ she can pretend he is her former beau. Howell’s uses comedy to reveal the deeper\
+  \ issue of the plight of unmarried middle and upper class women in the 19th century.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2013-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43469'
+  wikidata: Q4656134
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 19th century'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcc 'PS'
+title: A Counterfeit Presentment; and, The Parlour Car
+url: http://www.gutenberg.org/ebooks/43469
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Counterfeit_Presentment
